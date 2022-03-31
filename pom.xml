@@ -41,9 +41,11 @@
                 <version>0.8.7</version>
                 <executions>
                     <execution>
-                    <id>prepare-75758493847586</id>
+                    <id>prepare-554848464</id>
                     <goals>
                         <goal>prepare-agent</goal>
+                    </goals>
+                    <goals>
                         <goal>report</goal>
                     </goals>
                     </execution>
@@ -54,5 +56,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
